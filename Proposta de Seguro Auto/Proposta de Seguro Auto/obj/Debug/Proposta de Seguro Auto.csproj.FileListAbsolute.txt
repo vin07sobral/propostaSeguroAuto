@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Proposta de Seguro Auto\Proposta de Seguro Auto\bin\Debug\Proposta de Seguro Auto.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Proposta de Seguro Auto\Proposta de Seguro Auto\bin\Debug\Proposta de Seguro Auto.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Proposta de Seguro Auto\Proposta de Seguro Auto\bin\Debug\Proposta de Seguro Auto.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta_de_Seguro_Auto.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta_de_Seguro_Auto.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta de Seguro Auto.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta de Seguro Auto.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta de Seguro Auto.pdb
+C:\Users\administrator\Documents\Visual Studio 2015\Projects\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta de Seguro Auto.csprojResolveAssemblyReference.cache
+C:\Users\mvini\Desktop\Logica\Proposta de Seguro Auto\Proposta de Seguro Auto\bin\Debug\Proposta de Seguro Auto.exe.config
+C:\Users\mvini\Desktop\Logica\Proposta de Seguro Auto\Proposta de Seguro Auto\bin\Debug\Proposta de Seguro Auto.exe
+C:\Users\mvini\Desktop\Logica\Proposta de Seguro Auto\Proposta de Seguro Auto\bin\Debug\Proposta de Seguro Auto.pdb
+C:\Users\mvini\Desktop\Logica\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta de Seguro Auto.csprojAssemblyReference.cache
+C:\Users\mvini\Desktop\Logica\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta_de_Seguro_Auto.Form1.resources
+C:\Users\mvini\Desktop\Logica\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta_de_Seguro_Auto.Properties.Resources.resources
+C:\Users\mvini\Desktop\Logica\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta de Seguro Auto.csproj.GenerateResource.cache
+C:\Users\mvini\Desktop\Logica\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta de Seguro Auto.csproj.CoreCompileInputs.cache
+C:\Users\mvini\Desktop\Logica\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta de Seguro Auto.exe
+C:\Users\mvini\Desktop\Logica\Proposta de Seguro Auto\Proposta de Seguro Auto\obj\Debug\Proposta de Seguro Auto.pdb
